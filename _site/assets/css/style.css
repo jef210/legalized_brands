@@ -403,6 +403,7 @@ a:focus {
 .service-image {
     margin: 0 auto;
     border: 1px solid black;
+    background-repeat: no-repeat;
     /*margin-top: 50px;*/
   /*  margin-right: 10px;*/
 }
